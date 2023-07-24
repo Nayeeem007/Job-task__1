@@ -4,7 +4,7 @@ import AllCollege from '../AllCollage/AllCollage';
 const AllColleges = () => {
     const [colleges, setColleges] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/colleges')
+        fetch('https://job-task-server-zeta.vercel.app/colleges')
             .then(res => res.json())
             .then(data => setColleges(data))
     }, [])
