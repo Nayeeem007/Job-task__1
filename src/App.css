@@ -1,0 +1,10 @@
+ .slider img{
+    border-radius: 20px;
+ }
+ .slider img:hover {
+    filter: grayscale(0%);
+    filter: gray;
+    -webkit-filter: grayscale(0%);
+    filter: none;
+    transition: 1s ease;
+ }

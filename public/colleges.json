@@ -1,0 +1,27 @@
+[
+    {
+      "collegeImage": "college1.jpg",
+      "collegeName": "Harmony University",
+      "admissionDate": "Fall 2023",
+      "events": ["HarmonyFest", "Annual Convocation", "TechXpo"],
+      "researchHistory": "Harmony University, established in 1865, has a long-standing tradition of pioneering research across various disciplines.",
+      "sports": ["Basketball", "Soccer", "Swimming"]
+    },
+    {
+      "collegeImage": "college2.jpg",
+      "collegeName": "Eureka College",
+      "admissionDate": "Fall 2023",
+      "events": ["EurekaPalooza", "Sports Extravaganza", "Alumni Homecoming"],
+      "researchHistory": "Eureka College is renowned for its innovative research initiatives and commitment to scientific exploration.",
+      "sports": ["Cricket", "Tennis", "Volleyball"]
+    },
+    {
+      "collegeImage": "college3.jpg",
+      "collegeName": "Techno Institute of Science",
+      "admissionDate": "Summer 2023",
+      "events": ["HackXtreme", "Tech Symposium", "Innovation Expo"],
+      "researchHistory": "Techno Institute of Science boasts a legacy of technological advancements and significant contributions to the industry.",
+      "sports": ["Badminton", "Table Tennis", "Athletics"]
+    }
+  ]
+  
